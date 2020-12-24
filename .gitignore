@@ -66,3 +66,5 @@ db/db_back_dir/
 
 ### redis ###
 /redis/
+
+/target/
